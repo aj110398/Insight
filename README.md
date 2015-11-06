@@ -6,7 +6,7 @@ This project has the following dependencies:
 
 Then execute
 
-1) Execute run.sh which will execute tweets_cleaned.java and average_degree.java
+1) Execute run.bat which will execute tweets_cleaned.java and average_degree.java
 2) Both the .java files read inputs from tweet_input/tweets.txt
 3) You can find output files in tweet_output/ft1.txt and ft2.txt
 
